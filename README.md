@@ -14,7 +14,8 @@ Source: Kaggle Titanic Competition
 
  ## Models Used
 LogisticRegression,RandomForest,KNN.
- Best Model
+
+## Best Model here is the 
 Random Forest & Logistic Regression tied with 79.33% accuracy.
 Random Forest selected as final best model.
 
